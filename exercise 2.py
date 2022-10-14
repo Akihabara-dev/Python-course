@@ -2,7 +2,7 @@
 # Design a program that, given an integer, Determine if this is twice an odd number. 
 # (Example: 10 is double of 5, which is odd.)
 
-# Spanish: Imprime Hola Mundo
+# Spanish: 
 # Diseñe un programa que, dado un número entero, Determina si es el doble de un número impar. 
 # (Ejemplo: 10 es el doble de 5, que es impar.)
 
